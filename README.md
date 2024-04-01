@@ -18,6 +18,6 @@
 - OpenCV
 - scikit-image
 - scikit-learn
-- 
+  
 ## Acknowledgements
 - Inspired by the concepts of HOG and SVM for image classification.
